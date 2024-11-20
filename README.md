@@ -5,7 +5,7 @@ Projects I worked on while attending the Data Science TripleTen Bootcamp.
 | Project number | Title | Description |
 | :-----------: | ----------- |----------- |
 | 1 | [Baisic Python: TV ratings Analysis](https://github.com/JohnFDwy/Basic_Python) | The project task was to analyze whether the number of votes a title recieves from IMDb users impacts its ratings. |
-| 2 | Exploratory Data Analysis: Instacart | The project task was to prepare a report that gives insight into the shopping habits of Instacart customers |
+| 2 | [Exploratory Data Analysis: Instacart](https://github.com/JohnFDwy/EDA) | The project task was to prepare a report that gives insight into the shopping habits of Instacart customers |
 | 3 | Statiscal Data Analysis (SDA) | The project task was to examine the data provided on an internet companies customers and determine which of the plans offered is more profitable. |
 | 4 | [Software Development Tools](https://github.com/JohnFDwy/Project4) | The project task was to create a web application Render via Github displaying the relationship between miles on the odometer and the listed price of a used car. |
 | 5 | Project: Video Game Sales Analysis | The project task was to analyze the success of various gaming titles by sales across the world and discerning what titles on what platforms were most sucessful. |
