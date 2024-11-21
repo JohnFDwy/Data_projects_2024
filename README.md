@@ -10,7 +10,7 @@ Projects I worked on while attending the Data Science TripleTen Bootcamp.
 | 4 | [Software Development Tools](https://github.com/JohnFDwy/Project4) | The project task was to create a web application Render via Github displaying the relationship between miles on the odometer and the listed price of a used car. |
 | 5 | [Project: Video Game Sales Analysis](https://github.com/JohnFDwy/Integrated_Project) | The project task was to analyze the success of various gaming titles by sales across the world and discerning what titles on what platforms were most sucessful. |
 | 6 | [SQL](https://github.com/JohnFDwy/Data_Collection_Storage) | The project task was to determine whether a taxi service has a longer average duration of ride from the Loop to O'Hare Int. Airport in Chicago. |
-| 7 | Machine Learning for Mobile Provider | The project task was to analyze customer behavior and build a ML model to recommend one of two service plans. |
+| 7 | [Machine Learning for Mobile Provider](https://github.com/JohnFDwy/Machine_Learning_1) | The project task was to analyze customer behavior and build a ML model to recommend one of two service plans. |
 | 8 | Supervised Learning for Banking Client | The project task was to build a ML model to determine whether a customer will churn from the bank. |
 | 9 | Machine Learning for Mining Company | The project task was to analyze collect oil well parameters and build a model for predicting the volumn of oil reserves for new wells. |
 | 10 | Full Analysis of Mining Company's Product Yield by Mine| The project task was to perform a deep analysis of a mining company's efficiency at refining Au recovered from its various mines using machine learning to predict sMAPE. |
